@@ -69,5 +69,6 @@ This project demonstrates my ability to turn raw data into meaningful business i
 ## 📌 Dataset Source
 
 The dataset used in this project was sourced from Kaggle:  
-🎯 IMDb Top 1000 Movies Dataset 
+🎯 IMDb Top 1000 Movies Dataset. 
+
 Kudos to the original creator for compiling and sharing this valuable dataset for educational and analytical purposes.
